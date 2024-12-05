@@ -1,3 +1,31 @@
 <i class="fa-solid fa-magnifying-glass"></i>
 <i class="fa-solid fa-cart-shopping"></i>
 <i class="fa-regular fa-user"></i>
+
+
+
+
+
+        <div id="slide1" class="carousel-item relative w-full">
+          <!-- hero part -->
+          <div class="hero">
+            <div class="hero-content flex-col md:flex-row-reverse">
+            <div class="">
+                <img src="img/slider-1.png" alt="">
+            </div>
+              <div class="">
+                <h1 class="text-5xl font-normal">Basket Weave</h1>
+                <p class="py-6">
+                    Produce and supply various Handicraft items all <br> over
+                    the world which were very attractive
+                </p>
+               
+              </div>
+            </div>
+          </div>
+          <!-- hero part -->
+          <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
+            <a href="#slide4" class="btn btn-circle">❮</a>
+            <a href="#slide2" class="btn btn-circle">❯</a>
+          </div>
+        </div>
